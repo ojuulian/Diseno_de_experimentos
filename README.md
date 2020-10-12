@@ -1,1 +1,1 @@
-# Dise-o_experimentos
+# Diseño de experimentos
